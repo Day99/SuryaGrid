@@ -27,11 +27,11 @@ git push -u origin main
 ```
 Lalu di GitHub: **Settings → Pages → Source: Deploy from a branch → main / (root)**.
 
-Domain: arahkan DNS `suryagrid.id` ke GitHub Pages (A record 185.199.108.153, .109, .110, .111; `www` CNAME ke `<user>.github.io`), lalu aktifkan **Enforce HTTPS**.
+Domain: `suryagrid.timurintisinergi.co.id`. Di DNS timurintisinergi.co.id tambahkan **CNAME `suryagrid` → `day99.github.io`**, lalu di Settings → Pages isi Custom domain dan aktifkan **Enforce HTTPS**. Verifikasi domain di Settings akun → Pages → Verified domains.
 
 ## Wajib dicek sebelum live
-- [ ] Domain: semua URL memakai `https://suryagrid.id/`. Jika domain berbeda, cari-ganti di `index.html`, `robots.txt`, `sitemap.xml`, `llms.txt`, `CNAME`.
-- [ ] Email `halo@suryagrid.id` masih contoh (index.html footer, JSON-LD, llms.txt).
+- [x] Domain: semua URL memakai `https://suryagrid.timurintisinergi.co.id/`.
+- [x] Email: `hidayat@timurintisinergi.co.id`.
 - [ ] Alamat kantor lengkap → tambahkan ke JSON-LD `address` (streetAddress, postalCode) agar muncul di pencarian lokal.
 - [ ] Ganti semua foto placeholder (lihat `PHOTO-LOG.csv`), pertahankan nama file atau perbarui `width`/`height` di HTML.
 

@@ -20,10 +20,10 @@ Survei & analisa → desain sistem → pengadaan material → instalasi & testin
 
 ## Kontak
 - WhatsApp: +62 819-4133-990 (https://wa.me/628194133990)
-- Email: halo@suryagrid.id
-- Situs: https://suryagrid.id/
+- Email: hidayat@timurintisinergi.co.id
+- Situs: https://suryagrid.timurintisinergi.co.id/
 
 ## Halaman
-- [Beranda](https://suryagrid.id/): ringkasan solusi, kalkulator estimasi PLTS, proses layanan, FAQ.
-- [Kalkulator Estimasi](https://suryagrid.id/#kalkulator): perkiraan kWp, jumlah panel, penghematan, dan biaya dari tagihan listrik.
-- [FAQ](https://suryagrid.id/#faq): biaya, jenis sistem, PLTS untuk BTS, durasi instalasi, area layanan.
+- [Beranda](https://suryagrid.timurintisinergi.co.id/): ringkasan solusi, kalkulator estimasi PLTS, proses layanan, FAQ.
+- [Kalkulator Estimasi](https://suryagrid.timurintisinergi.co.id/#kalkulator): perkiraan kWp, jumlah panel, penghematan, dan biaya dari tagihan listrik.
+- [FAQ](https://suryagrid.timurintisinergi.co.id/#faq): biaya, jenis sistem, PLTS untuk BTS, durasi instalasi, area layanan.
