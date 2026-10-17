@@ -1,0 +1,29 @@
+# SuryaGrid
+
+> SuryaGrid adalah penyedia solusi PLTS (pembangkit listrik tenaga surya) dan penyimpanan energi di Indonesia. Kami merencanakan, mengadakan material, memasang, dan melakukan commissioning sistem panel surya on-grid, hybrid, dan off-grid untuk rumah, bisnis/industri, tower telekomunikasi (BTS), serta pertanian dan perkebunan.
+
+## Layanan
+- PLTS Rumah 1–5 kWp: sistem on-grid atau hybrid untuk rumah tinggal, mengurangi tagihan PLN dan menyediakan cadangan saat padam.
+- PLTS Bisnis & Industri: untuk ruko, kantor, gudang, dan pabrik.
+- PLTS Tower Telekomunikasi: sistem hybrid/off-grid untuk BTS, repeater, microcell; mengurangi konsumsi genset dan BBM.
+- PLTS Pertanian & Perkebunan: pompa air tenaga surya, irigasi, cold storage.
+- Produk & EPC: panel surya mono/polycrystalline, inverter on-grid/hybrid/off-grid, baterai LiFePO4, mounting, proteksi, combiner box.
+
+## Proses kerja
+Survei & analisa → desain sistem → pengadaan material → instalasi & testing → serah terima dan purna jual.
+
+## Fakta penting
+- Area layanan: seluruh Indonesia.
+- Estimasi biaya PLTS atap on-grid: sekitar Rp 14–18 juta per kWp (indikatif, harga final setelah survei).
+- Instalasi rumah 1–5 kWp: 1–3 hari kerja setelah material tiba.
+- Bahasa: Indonesia, Inggris.
+
+## Kontak
+- WhatsApp: +62 819-4133-990 (https://wa.me/628194133990)
+- Email: halo@suryagrid.id
+- Situs: https://suryagrid.id/
+
+## Halaman
+- [Beranda](https://suryagrid.id/): ringkasan solusi, kalkulator estimasi PLTS, proses layanan, FAQ.
+- [Kalkulator Estimasi](https://suryagrid.id/#kalkulator): perkiraan kWp, jumlah panel, penghematan, dan biaya dari tagihan listrik.
+- [FAQ](https://suryagrid.id/#faq): biaya, jenis sistem, PLTS untuk BTS, durasi instalasi, area layanan.

@@ -1,0 +1,14 @@
+{
+  "name": "SuryaGrid",
+  "short_name": "SuryaGrid",
+  "description": "Solusi PLTS untuk rumah, bisnis, telekomunikasi dan pertanian di Indonesia",
+  "lang": "id",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0E2A5C",
+  "icons": [
+    {"src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
