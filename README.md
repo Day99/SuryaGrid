@@ -31,7 +31,7 @@ Domain: `suryagrid.timurintisinergi.co.id`. Di DNS timurintisinergi.co.id tambah
 
 ## Wajib dicek sebelum live
 - [x] Domain: semua URL memakai `https://suryagrid.timurintisinergi.co.id/`.
-- [x] Email: `hidayat@timurintisinergi.co.id`.
+- [x] Email: `sales@timurintisinergi.co.id`.
 - [ ] Alamat kantor lengkap → tambahkan ke JSON-LD `address` (streetAddress, postalCode) agar muncul di pencarian lokal.
 - [ ] Ganti semua foto placeholder (lihat `PHOTO-LOG.csv`), pertahankan nama file atau perbarui `width`/`height` di HTML.
 
